@@ -8,6 +8,8 @@ Esta primeira entrega contém a estrutura do app e o módulo de
 guardados em memória (sem backend ainda) para permitir apresentar o
 front funcionando hoje, sem depender de nenhum serviço externo.
 
+![Tela figma](img/preview_telas_doadores.png)
+
 ## O que já funciona
 
 - Painel inicial com indicadores (total de doadores, ativos, doações mensais);
